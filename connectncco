@@ -1,0 +1,19 @@
+[
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
+  {
+    "action": "connect",
+    "eventUrl": ["http://6185c94b.ngrock.io/socket"],
+    "timeout": "45",
+    "from": "381644764349",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "381615760700",
+        "dtmfAnswer": "2p02p"
+      }
+    ]
+  }
+]
